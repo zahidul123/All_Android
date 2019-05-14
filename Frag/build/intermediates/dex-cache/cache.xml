@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_743dbfeb6dbddfc0e9a1bf1cd4c28a707acde9f4.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bdc58bce26a66962ba76d02d77f5d94f9bae33e8.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c55879919588fff831b1db52d2a296b5d113a3df.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_2e0391c0a1722a2b2f38546009a4caab6aade8b3.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f7c8de1bb938a5d30836dd05fc849a4b2a03d938.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_569c3225d08b900b4fec8bd037acad658d75884b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6a7cb3dd499f22b81bd573db7ff617ad976d4789.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0e25c1c039037ebd280a9342b9c278dde9f707b6.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_dc6eaa53f4dee10871c13b9d5869b4aceb5c6d30.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_8d2810b35219de816256da5531623aa0423c3dec.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="e061bfd5b26317972e596f4bb984b9704df94f4c">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\instant-run_a7a2f94bc6de52d09b9ca924641815a39072a231.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_8753d934b6f07d4af22a15e67f3d75fe6d75451f.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_3fb310645178d12c039fe5469f33bda55838864b.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_eb9b2416d89c97e98e3974304dd2859eda8eb212.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f0c2384954fa3aa0cb45420a524c4d5f8bb00987.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_efbc3c2928e002945a0fce61cd6e495a7bf04287.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_2919e4b0209f859ab10834305d1978daa7877ad5.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f87ad76beae00b37dd5a2ac472f4fbad4e2bfcbf.jar" />
+    </item>
+    <item
+        jar="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="27.0.0"
+        sha1="85ac881b927add252132a623651a630aabad66b8">
+        <dex dex="E:\Android\ChannelSurfer-master\Frag\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ab55027bdca701635aadf06d738f3068f36aaf96.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,15 @@
+package com.example.destroy.newstec;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+import com.example.destroy.helper.R;
+
+public class HelpOfphone extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_help_ofphone);
+    }
+}

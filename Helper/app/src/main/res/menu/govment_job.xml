@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/railway"
+        android:title="Bangladesh Railway"
+        ></item>
+    <item android:id="@+id/ninfocenter"
+        android:title="Bangladesh National Information Center"
+        ></item>
+    <item android:id="@+id/ministryofinfo"
+        android:title="Ministry of information"
+        ></item>
+    <item android:id="@+id/minedu"
+        android:title="Ministry of education"
+        ></item>
+    <item android:id="@+id/ictdiv"
+        android:title="ICT-Division"
+        ></item>
+    <item android:id="@+id/atoi"
+        android:title="Acces to Information"
+        ></item>
+    <item android:id="@+id/bdjobs"
+        android:title="Jobs site-1"
+        ></item>
+    <item android:id="@+id/jobsbd"
+        android:title="Jobs bsite-2"
+        ></item>
+    <item android:id="@+id/chakri"
+        android:title="Jobs bsite-3"
+        ></item>
+    <item android:id="@+id/jobcirular"
+        android:title="Jobs bsite-4"
+        ></item>
+    <item android:id="@+id/govtjob"
+        android:title="Jobs bsite-5"
+        ></item>
+
+</menu>

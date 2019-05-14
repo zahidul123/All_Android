@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+
+   >
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Day1"
+        android:layout_weight="1"
+        android:onClick="er"
+        android:id="@+id/button" />
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_weight="1"
+        android:onClick="er"
+        android:text="Day2"
+
+        android:id="@+id/button2" />
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_weight="1"
+        android:onClick="er"
+        android:text="Day3"
+
+        android:id="@+id/button3" />
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:name="com.example.admin.frag.DefaultFrag"
+        android:id="@+id/fragment"
+        tools:layout="@layout/fragment_day1"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+   </LinearLayout>
+    </LinearLayout>

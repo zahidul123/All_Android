@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Helper</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string-array name="all_division_select">
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+        <item>Barisal</item>
+        <item>Rangpur</item>
+    </string-array>
+
+
+    <string-array name="dhaka_division">
+        <item>Square Hospital</item>
+        <item>Apollo Hospital</item>
+        <item>Labaid Hospital</item>
+        <item>IbnSina Hospital</item>
+        <item>Popular Hospital</item>
+        <item>Samorita Hospital</item>
+        <item>United Hospital</item>
+        <item>Green Life</item>
+        <item>Holy family</item>
+    </string-array>
+
+
+    <string-array name="rajshahi_division">
+        <item>Mukti Clinic</item>
+        <item>Apollo Information Centre</item>
+        <item>IslamiBank Hospital</item>
+        <item>Dolphin Clinic</item>
+        <item>popular diagnostic</item>
+    </string-array>
+
+
+    <string-array name="sylhet_division">
+        <item>Al-Banna General Hospital</item>
+        <item>Burhan Uddin Hospital</item>
+        <item>Central Poly Clinic</item>
+        <item>Modern General Hospital</item>
+    </string-array>
+
+
+    <string-array name="chittagong_division">
+        <item>Chattagram Metropoliton Hospital</item>
+        <item>National Hospital Chittagong</item>
+        <item>Panorama Hospital</item>
+        <item>Lions General Hospital</item>
+    </string-array>
+
+
+    <string-array name="khulna_division">
+        <item>Basundhara Diagnostic</item>
+        <item>City Nursing Home</item>
+        <item>Fair Health Clinic</item>
+    </string-array>
+
+
+    <string-array name="barishal_division">
+        <item>Ambia Memorial Hospital</item>
+        <item>Eden Nursing Home</item>
+        <item>Globe Diagnostic Lab</item>
+        <item>Islam Poly Clinic</item>
+    </string-array>
+
+
+    <string-array name="rangpur_division">
+        <item>Good Health Hospital</item>
+        <item>Desh Clinic and Nursing Home</item>
+        <item>New Rangpur Clinic</item>
+    </string-array>
+
+    <string name="help_in">In this app you have many option\
+     1.In government icon site you will get all the
+        list of govt. \by clicking navigation drawer\
+        2.Intertainment part can give you many intrtainment\
+        3.You can get both bangladeshi and world wide famous
+        newspaper from\ it you also get job news paper\
+        4.For the cse student the best website i refer \
+        for you\
+        5.in the doctor part you can give appoinment by selecting \
+        the hospital
+    </string>
+    <string name="about">Hi.Am \Tanvir Ahmed parvez\
+        Id:152-15-5523
+        from Daffodil international university\
+        A very new in android programming \so please suggest
+        me my wrong in this \app and what you want in this app\
+        mail id pervez15-5523@diu.edu.bd\
+        thanks for using my app\
+        Next app is comming by \ using machine learning till wait ....
+        \Children good bye...
+
+    </string>
+</resources>

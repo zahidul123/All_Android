@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/cprogramming"
+    android:title="C"
+    android:icon="@drawable/cproramm"></item>
+
+    <item android:id="@+id/cplus"
+        android:title="C++"
+        android:icon="@drawable/cplus"
+        ></item>
+    <item android:id="@+id/csharp"
+        android:title="C#"
+        android:icon="@drawable/csharp"
+        ></item>
+    <item android:id="@+id/dotnet"
+        android:title=".Net"
+        android:icon="@drawable/dotnet"
+        ></item>
+    <item android:id="@+id/python"
+        android:title="Python"
+        android:icon="@drawable/python"
+        ></item>
+    <item android:id="@+id/java"
+        android:title="Java"
+        android:icon="@drawable/java"
+        ></item>
+    <item android:id="@+id/database"
+        android:title="Database"
+        android:icon="@drawable/database"
+        ></item>
+    <item android:id="@+id/swift"
+        android:title="Swift"
+        android:icon="@drawable/swift"
+        ></item>
+    <item android:id="@+id/php"
+        android:title="Php"
+        android:icon="@drawable/php"
+        ></item>
+    <item android:id="@+id/javascript"
+        android:title="Java Script"
+        android:icon="@drawable/javascript"
+        ></item>
+
+</menu>

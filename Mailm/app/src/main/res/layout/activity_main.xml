@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.destroy.mailm.MainActivity"
+    android:orientation="vertical"
+    >
+   <EditText
+       android:id="@+id/to"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:hint="To@example.org"
+       android:textSize="25dp"
+       android:textColor="#27dcca"
+       android:layout_marginEnd="20dp"
+       />
+    <EditText
+        android:id="@+id/sub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject"
+        android:textSize="25dp"
+        android:textColor="#27dcca"
+        android:layout_marginEnd="20dp"
+        />
+    <EditText
+        android:id="@+id/body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Boy"
+        android:textSize="25dp"
+        android:layout_marginEnd="20dp"
+        android:padding="10dp"
+        />
+
+    <Button
+        android:id="@+id/img"
+        android:layout_width="100dp"
+        android:layout_height="63dp"
+        android:layout_gravity="end"
+        android:text="send"
+        />
+
+</LinearLayout>
