@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done3">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/imageView1"
+            android:text="কোষ্ঠকাঠিন্যের কারণ:
+১. আঁশ যুক্ত খাবার এবং শাক সবজি কম খাওয়া
+২.পানি কম খাওয়া
+৩.দুশ্চিন্তা
+৪.কায়িক পরিশ্রমের অভাব
+৫.অন্ত্র নালি তে ক্যানসার
+৬.ডায়াবেটিস
+৭.মস্তিষ্কে টিউমার ও রক্তক্ষরণ
+৮.দীর্ঘদিন শয্যাশায়ী থাকা
+৯.বিভিন্ন ধরনের ওষুধের পার্শ্বপ্রতিক্রিয়া কোষ্ঠকাঠিন্যের লক্ষণ
+১0.শক্ত ও কঠিন মল ,মলত্যাগে অনেক বেশি সময় লাগা
+11.অধিক সময় ধরে মলত্যাগ করার পরও অসম্পূর্ণ মনে হওয়া
+12.মলদ্বারের আশপাশেও তলপেটে ব্যথা
+
+
+Cure:
+
+কোষ্ঠকাঠিন্য দূর করার উপায়
+১.বেশি করে শাক সবজি ও আঁশ যুক্ত খাবার খান
+২.বেশি করে পানি পান করুন
+৩.দুশ্চিন্তা দূর করুন
+৪.যাঁরা সারাদিন বসে কাজ করেন, তাঁরা নিয়মিত ব্যায়াম করুন কোষ্ঠকাঠিন্য একটি দীর্ঘ মেয়াদি সমস্যা। কিন্তু এর চিকিৎসা না করা হলে কিছু সমস্যা হতে পারে
+        ১. মল ধরে রাখার ক্ষমতা নষ্ট হয়ে যেতে পারে
+        ২. পাইলস
+        ৩. এনালফিশার
+        ৪. মলদ্বার বাইরে বের হয়ে আসা
+        ৫. মানসিক ভাবে অশান্তি
+        ৬. প্রস্রাবের সমস্যা
+        ৭. খাদ্য নালিতে প্যাঁচলেগে পেট ফুলে যেতে পারে
+        ৮. খাদ্যনালিতে আলসার বা ছিদ্র হয়ে যেতে পারে l
+    "
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:layout_alignParentStart="true" />
+    </LinearLayout>
+
+
+</ScrollView>

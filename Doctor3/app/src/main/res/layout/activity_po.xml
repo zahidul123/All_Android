@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.Po">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/button40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn40"
+            android:text="আলঝেইমারস" />
+
+
+        <Button
+            android:id="@+id/button39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn39"
+            android:text="অ্যানথ্রাক্স এপেন্ডিসাইটিস" />
+
+
+        <Button
+            android:id="@+id/button38"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn38"
+            android:text="অটিজম" />
+
+
+        <Button
+            android:id="@+id/button37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn37"
+            android:text="বার্ডফ্লু" />
+
+
+        <Button
+            android:id="@+id/button36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn36"
+            android:text="ব্রুণসমস্যা" />
+
+
+        <Button
+            android:id="@+id/button35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn35"
+            android:text="চিকুনগুনিয়া" />
+
+
+        <Button
+            android:id="@+id/button34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn34"
+            android:text="চোখওঠা" />
+
+
+        <Button
+            android:id="@+id/button33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn33"
+            android:text="ডায়রিয়া" />
+
+
+        <Button
+            android:id="@+id/button32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn32"
+            android:text="ফিস্টুলা" />
+
+
+        <Button
+            android:id="@+id/button31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn31"
+            android:text="উচ্চরক্তচাপ" />
+
+
+        <Button
+            android:id="@+id/button30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn30"
+            android:text="ইনফ্লুয়েঞ্জা" />
+
+
+        <Button
+            android:id="@+id/button29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn29"
+            android:text="জলবসন্ত" />
+
+
+        <Button
+            android:id="@+id/button28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn28"
+            android:text="সুতাকৃমি" />
+
+
+        <Button
+            android:id="@+id/button27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn27"
+            android:text="গ্যাস্ট্রিক আলসার" />
+
+
+        <Button
+            android:id="@+id/button26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn26"
+            android:text="থ্যালাসেমিয়া" />
+
+
+        <Button
+            android:id="@+id/button25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn25"
+            android:text="এইডস" />
+
+
+        <Button
+            android:id="@+id/button24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn24"
+            android:text="কুষ্ঠরোগ" />
+
+
+        <Button
+            android:id="@+id/button23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn23"
+            android:text="খিঁচুনি" />
+
+
+        <Button
+            android:id="@+id/button22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn22"
+            android:text="আর্সেনিক" />
+
+
+        <Button
+            android:id="@+id/button21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn21"
+            android:text="কোষ্ঠকাঠিন্য" />
+
+
+        <Button
+            android:id="@+id/button20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn20"
+            android:text="জন্ডিস" />
+
+
+        <Button
+            android:id="@+id/button19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn19"
+            android:text="জ্বর" />
+
+
+        <Button
+            android:id="@+id/button18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn18"
+            android:text="ডেঙ্গু" />
+
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn17"
+            android:text="বাতব্যথা" />
+
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn16"
+            android:text="ঘাড়ব্যথা" />
+
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn15"
+            android:text="মাথাব্যথা ও মাইগ্রেন" />
+
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn14"
+            android:text="হ্যালুসিনেশন" />
+
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn13"
+            android:text="ম্যালেরিয়া" />
+
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn12"
+            android:text="যক্ষ্মা" />
+
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn11"
+            android:text="শ্বেতীরোগ" />
+
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn10"
+            android:text="স্ট্রোক" />
+
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn9"
+            android:text="হাঁপানি" />
+
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btn8"
+            android:text="হেপাটাইটিস বি" />
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

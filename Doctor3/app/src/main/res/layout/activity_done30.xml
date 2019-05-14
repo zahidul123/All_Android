@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done30">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="
+
+    1.	শরীরের অধিকাংশ জায়গায় শ্বেতীরোগ হয়েছে কি করে বুঝবেন শ্বেতীরোগের লক্ষণ ও উপসর্গ গুলো সাধারণত:  হলো  :  ত্বকের উপর সাদা দাগ পড়লে অল্প বয়সে মাথার চুল, চোখের পাপড়ি, ভ্রু, দাড়ি সাদা বা ধূসর শ্বেতী রোগ মানুষের ত্বকের একটি সাধারণ সমস্যা। শ্বেতীরোগ যে কারোরই হতে পারে। সাধারণত শরীরের যেসব অঙ্গ আবরণ মুক্ত থাকে যেমন :হাত, পা, বাহু, মুখ এবং ঠোট সে সব অঙ্গে শ্বেতী দেখা যায়।
+শ্বেতীরোগ কি? শ্বেতীরোগে ত্বক মেলানিন (যা মানুষের ত্বক, (বাম অথবা ডান দিকে)
+
+    2.	 হলে মুখের ভিতরের কলা গুলো বর্ণহীন হলে (Mucous membranes) চোখের ভিতরের অংশ রংহীণ হলে অথবা রংয়ের পরিবর্তন হলে কখন ডাক্তার দেখাবেন ত্বক, চুল এবং চোখ ফ্যাকাসে হওয়ার সাথে সাথে ডাক্তারের সাথে যোগাযোগ করতে হবে।
+
+Cure:
+
+    1. নিরীক্ষার প্রয়োজন হতে পারে রোগের ইতিহাস বংশের রোগের ইতিহাস ত্বকের বায়োপসি (Skin Biopsy) রক্তের পরীক্ষা চোখের পরীক্ষা কি ধরণের চিকিৎসা আছে শ্বেতীরোগের চিকিৎসা ৬-১৮ মাস পর্যন্ত স্থায়ী হতে পারে।
+
+    2. ডাক্তার নিচের ব্যবস্থা গুলো গ্রহণের জন্য বলতে পারেন: ঔষধ ব্যবহার করা (Topical) মুখে ঔষধ খাওয়া শল্য চিকিৎসা বাড়তি সতর্কতা নিজের প্রতি যত্ন নিতে হবে সূর্যের আলো প্রতিরোধ করে এমন মলম (ক্রিম) ব্যবহার করতে হবে যাদের গায়ের রঙ ফর্সা তারা গা তামাটে রঙ করা (Tanning) থেকে বিরত থাকতে হবে|
+
+" />
+    </LinearLayout>
+</ScrollView>

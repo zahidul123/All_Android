@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done32">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Cause:
+
+    1. অ্যাজমা বা হাঁপানি এমন একটি ব্যাধি, যার সঙ্গে আমরা সবাই অল্প বিস্তর পরিচিত। এটি মানুষের দেহের অসহনীয় ও মারাত্মক রোগ। শ্বাসকষ্ট জনিত কারণেই সাধারণত এ রোগ হয়ে থাকে।
+
+    2. অ্যাজমা রোগ সৃষ্টি হওয়ার পেছনে অনেক কারণ থাকে। এর মধ্যে যে কারণ গুলো রয়েছে সে গুলো হলো ধুলোবালি, ধোঁয়া, হঠাৎ আবহাওয়ার পরিবর্তন, সর্দি, কাশি, মানসিক উত্তেজনা, অ্যালার্জি, ফুলের রেণু, রাতে বেশি খাওয়া|
+
+Cure:
+সঠিক ও নিয়মিত চিকিৎসার ফলে এ উপসর্গ গুলোর সবই নিয়ন্ত্রণ করা যায়। হাঁপানির চিকিৎসায় বিভিন্ন ধরনের ওষুধ ব্যবহূত হয়, যেমন—
+
+    1. রোগ উপশম কারী ওষুধ,  রোগ প্রতিরোধ বা বাধা দানকারী ওষুধ। এ ওষুধ গুলো সম্পর্কে ধারণা থাকতে হবে—কীভাবে কাজ করে, এগুলোর সঠিক মাত্রা কী, এগুলোর সাধারণত কী কী পার্শ্ব প্রতিক্রিয়া এবং কোন কোন ওষুধ ব্যবহার করা যাবে। হাঁপানি কেন হয় হাঁপানি যে কোনো বয়সেই হতে পারে।
+
+    2. যদি সঠিক ভাবে উপযুক্ত চিকিৎসা না নেওয়া হয়, তা হলে এ রোগে অনেক সময় মৃত্যুও হতে পারে। হাঁপানির সঠিক কারণ এখনো জানা যায় নি|
+
+    3. কোনো কোনো ওষুধ, যেমন বিটা ব্লকার, যা উচ্চরক্তচাপ নিয়ন্ত্রণের জন্য ব্যবহূত হয়,  এন এস এ আই ডি (ব্যথা নিরাময় কারী ওষুধ) এসপিরিন কোনো কোনো ক্ষেত্রে হাঁপানি থেকে বাচায়।
+" />
+    </LinearLayout>
+</ScrollView>

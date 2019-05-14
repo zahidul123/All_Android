@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done7">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1.কোন বয়সে বেশি হয়ঃ ১৩ থেকে ১৮ বছর বয়সে এটি বেশি হয়। তবে ২০ থেকে ৩০ বছর বয়স পর্যন্ত এটি হতে দেখা যায়।
+2.২০ বছর বয়সের পর থেকে এটি ধীরেধীরে কমতে থাকে।
+3.শরীরের কোথায় হয়ঃ সাধারণত মুখে যেমন গাল, নাক, থুতনি ও কপালে হতে দেখা যায়।
+4.কারণঃ লোমের গোড়ায় একটি ব্যাকটেরিয়া থাকে, যার নাম প্রোপাওনি ব্যাকটেরিয়াম একনি । বয়ঃসন্ধিকালে এড্রোজেন হরমোনের প্রভাবে সেবাসিয়াস গ্রন্হি থেকে সেবা মেরনিঃসরণ বেড়ে যায়। এই সেবাম থেকে ফ্রিফ্যাটি এসিড তৈরি করে লোমের গোড়ার উপস্হিত ব্যাকটেরিয়া। ফলে লোমের গোড়ায় প্রদাহের সৃষ্টি হয় এই ফ্যাটি এসিডের প্রভাবে।
+5.এর পাশাপাশি জমা হয় লোমের গোড়ায় কেরাটিন নামক পদার্থ। ফলে সেবাসিয়াস গ্রন্হি পথ বন্ধ হতে থাকে এই কেরাটিন, লিপিড আরমেলানিন পদার্থ দিয়ে, যা ব্লাকহেড বা ‘হোয়াইটহেড’ হিসেবে দেখা দিয়ে থাকে।
+Cure:
+6.ব্যাকটেরিয়া নাশকঃ অ্যান্টিবায়োটিকের মধ্যে টেট্রাসাইক্লিন ১৮৫১ সাল থেকেই ব্রণ চিকিৎসায় ব্যবহূত হচ্ছে।
+7.টেট্রাসাইক্লিন দামে সস্তা, পার্শ্বপ্রতিক্রিয়া কম এবং অত্যন্ত কার্যকরী।
+8.ওষুধ বা অ্যান্টিবায়োটিক হচ্ছে মিনোসাইক্লিন। মিনোসাইক্লিন টেট্রা সাইক্লিনের চেয়েও অধিক কার্যকর। দেখাগেছে, ৫০০ মিলিগ্রাম টেট্রাসাইক্লিনের চেয়ে ১০০ মিলিগ্রাম মিনোসাইক্লিন বেশি কার্যকর।
+9. Doxycycline – ব্রণ চিকিৎসায় বহুল ব্যবহৃত ডক্সিসাইক্লিন একটি চমৎকার ওষুধ।
+"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+</ScrollView>

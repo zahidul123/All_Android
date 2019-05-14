@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done27">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="
+    1.	মানসিক রোগ ‘হ্যালুসিনেশন’ নানা মানসিক রোগের একটা উপসর্গ। মানসিক রোগীরা তাদের কানে নানান ধরনের গায়েবি কথাবার্তা শোনার কথা বলে থাকেন। এটি আসলে হ্যালুসিনেশন।
+    2.	আমরা অনেক সময় ঘুম থেকে জাগার সময় আশপাশের কেউ যেন নাম ধরে ডাকছে এমন মনে করে থাকি। এটিও হ্যালুসিনেশন।
+    3.	সে সব সময় একাএকা কথা বলতে থাকে। আসলে তার একাএকা কথা বলাটা হ্যালুসিনেশনের একটা পরোক্ষ প্রকাশ। তার কানে প্রতিনিয়ত নানা গায়েবি আওয়াজ আসে। সে এসব বক্তা বিহীন সংলাপের উত্তর প্রতিনিয়ত দিয়েই চলেছে। তাইতো তার একাএকা কথা বলা।
+    4.	অনেক মানসিক রোগী কানে তুলা দিয়ে থাকেন। কারণ তিনি কোনো এক অজানা জায়গা হতে ভেসে আসা কথা গুলো শুনতে চান না।
+    5.	বেশির ভাগ মানসিক রোগের এটি ঘটে থাকে। রোগী কানে কথা শুনতে পায়। রোগ নির্ণয়ে কেবল এত টুকু তথ্য জানলেই যথেষ্ট নয়।
+    6.	মনোরোগ বিশেষজ্ঞ গণ এক্ষেত্রে কানের গায়েবি আওয়াজের খুঁটিনাটি জিজ্ঞাসা করে থাকেন। কারণ কেবল হ্যালুসিনেশন হতে রোগ নিরূপণ করা যায় না। উল্লেখ্য, হ্যালুসিনেশন ছাড়াও রোগীর আরো নানা উপসর্গ থাকে।
+" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.destroy.textualapp.loginActivity"
+    android:orientation="vertical"
+    >
+    <include layout="@layout/appbar_layout" android:id="@+id/login_appbar"/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Log in to your Account"
+    android:textSize="30dp"
+    android:textStyle="bold"
+    android:textColor="#000"
+    android:layout_marginTop="30dp"
+    />
+
+    <EditText
+        android:id="@+id/login_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:paddingTop="20dp"
+        android:textSize="30dp" />
+
+    <EditText
+        android:id="@+id/login_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingTop="20dp"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/login_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:background="@color/colorPrimary"
+        android:text="Log In "
+        android:textSize="30dp" />
+
+</LinearLayout>

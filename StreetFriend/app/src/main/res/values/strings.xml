@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StreetFriend</string>
+    <string-array name="root">
+        <item>Kalabagan</item>
+        <item>Gabtoli</item>
+        <item>Airport</item>
+        <item>Mirpur</item>
+        <item>Agargoan</item>
+        <item>Gulisthan</item>
+        <item>Azimpur</item>
+        <item>Komolapur</item>
+        <item>Badda</item>
+    </string-array>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done4">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/imageView1"
+            android:text="
+ 1.	ইনফ্লুয়েঞ্জা ভাইরাস ইনফ্লুয়েঞ্জা পরিবারের ‘এ’ ও ‘বি’ ভাইরাসের রোগ তাত্ত্বিক গুরুত্ব বেশি।
+
+ 2.	এদের দুটো অ্যান্টিজেনিক অংশ রয়েছে। দুই ধরনের গ্লাইকো প্রোটিন। হিমএগ্লুটিনিন (এইচ) ও নিউর্যামিনাইডেজ (এন)।
+
+ 3.	এই গ্লাইকোপ্রোটিন গুলোর কার্যকারিতার ওপর ভিত্তি করে ইনফ্লুয়েঞ্জা ‘এ’ ভাইরাসটিকে ১৬টি ‘এইচ’(H1-H16) এবং নয়টি ‘এন’ (N1-N9) সাব-টাইপে ভাগ করা হয়।
+
+ 4.	এ পর্যন্ত বেশি ক্ষতিকারক বার্ডফ্লুর প্রাদুর্ভাব হয়েছে এইচ ৫ এন ১ উপপ্রজাতির কারণে। কারণ এই এইচ ৫ - এন ১ ভাইরাসটিই এ পর্যন্ত পাখি থেকে মানুষে সংক্রমিত হয়েছে।
+
+ 5.	হাঁস-মুরগিতে বার্ডফ্লুর জীবাণু থাকে অন্ত্রে। আর মানুষের মধ্যে যখন আসে তখন এই জীবাণু মানুষের ফুসফুসে অবস্থান করে। এটা ঢোকে নাক-মুখ দিয়ে।
+
+
+ Cure:
+
+ 1.হাঁস-মুরগি পালনে করণীয়
+        * বাড়িতে হাঁস ও মুরগি দুটোই পালন করলে- হাঁস ও মুরগি আলাদা খোঁয়াড়ে রাখুন।
+
+ 2.ঘরের হাঁস-মুরগির সঙ্গে বনের পাখি বা অতিথি পাখি রাখবেন
+
+ 3.হাঁস-মুরগি মরে গেলে খালি হাতে ধরবেন না বা নাড়াচাড়া করবেন না।
+
+ 4.রোগাক্রান্ত হাঁস-মুরগি জবাই করা বা পালক ছাড়ানো বা কাটাকুটির সময় গ্লাভ্স ব্যবহার করুন। নাক-মুখ ঢেকে রাখুন।
+
+ 5. শিশুরা যাতে হাঁস-মুরগি-কবুতর কিংবা অন্যান্য পাখি নিয়ে খেলা না করে, সে দিকে খেয়াল রাখুন।
+    "
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:layout_alignParentStart="true" />
+    </LinearLayout>
+
+
+</ScrollView>

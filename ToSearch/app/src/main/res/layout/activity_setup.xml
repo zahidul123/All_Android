@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hpp"
+    tools:context=".SetupActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/profile_icon"
+        android:id="@+id/status_profile"
+        />
+
+    <EditText
+        android:id="@+id/status_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="159dp"
+        android:hint="User Name"
+        android:paddingLeft="40dp"
+        android:background="@drawable/input_draw"
+        android:textSize="30dp" />
+
+    <EditText
+        android:id="@+id/status_full_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="244dp"
+        android:ems="10"
+        android:background="@drawable/input_draw"
+        android:hint="Full Name"
+        android:textSize="30dp"
+        android:paddingLeft="40dp"
+         />
+
+    <EditText
+        android:id="@+id/status_country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="204dp"
+        android:textSize="30dp"
+        android:paddingLeft="40dp"
+        android:background="@drawable/input_draw"
+        android:ems="10"
+        android:hint="country"
+        />
+
+    <Button
+        android:id="@+id/status_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="86dp"
+        android:background="@drawable/button_style"
+        android:padding="10dp"
+        android:text="save"
+        android:textColor="#e92525"
+        android:textSize="30dp"
+        android:textStyle="italic" />
+
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done31">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Cause:
+
+    1. মস্তিষ্কের রক্তবাহী নালির দুর্ঘটনাকেই স্ট্রোক বলা যায়। এ দুর্ঘটনায় রক্ত নালি বন্ধও হতে পারে, আবার ফেটেও যেতে পারে। আমাদের দেশে প্রচলিত একটি ধারণা আছে যে স্ট্রোক একটি হূৎপিণ্ডের রোগ। বাস্তবে এটি মোটেই সত্য নয়। স্ট্রোক সম্পূর্ণই মস্তিষ্কের রক্তনালির জটিলতা জনিত রোগ।
+
+    2. স্ট্রোক কেন হয়? উচ্চরক্তচাপ স্ট্রোকের সবচেয়ে বড় কারণ। এ ছাড়া ধূমপান, মাদক সেবন, অতিরিক্ত টেনশন, হূদেরাগ, ডায়াবেটিস, স্ট্রোকের পারিবারিক ইতিহাস, রক্তে বেশি মাত্রায় চর্বি, অতিরিক্ত মোটা হওয়া|
+
+Cure:
+
+    1. ব্যায়াম করে কয়েক কেজি বাড়তি ওজন ঝেড়ে ফেলা যায়। ধূমপান ও মাদক সেবন কে না বলুন।
+
+    2. যে কোনো পরিবেশে হাসি খুশি থাকুন। নিয়মিত ওষুধ সেবনের মাধ্যমে উচ্চরক্তচাপ ও ডায়াবেটিস নিয়ন্ত্রণে রাখুন। চর্বি ও শর্করা যুক্ত খাবার অপছন্দ করুন। ফাস্টফুড, বাদাম, সন্দেশ-রসগোল্লা, দুধ-ঘি-পোলাও-বিরিয়ানি, পাঙাশ-চিংড়ি-কাঁকড়া, গরু বা খাসির মাংস, ডিমের কুসুম ইত্যাদি খাওয়া উচিত নয়।
+" />
+    </LinearLayout>
+</ScrollView>

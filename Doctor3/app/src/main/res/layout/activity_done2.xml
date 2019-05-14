@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done2">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/imageView1"
+            android:text="Cause:
+1.	শরীরের বিভিন্ন অংশে, বিশেষ করে গিঁটেগিঁটে ব্যথা
+2.	একটি ভাইরাস জনিত অসুখ। এ রোগ টি আফ্রিকা এবং দক্ষিণ-পূর্ব এশিয়ার রোগ হলেও আমাদের দেশের কিছু কিছু এলাকায় এরোগ পাওয়া যাচ্ছে।
+3.	চিকুন গুনিয়ার মূল উপসর্গ হলো জ্বর এবং অস্থিসন্ধির ব্যথা।
+4.	জ্বর অনেকটা ডেঙ্গুর মতোই দেহের তাপমাত্রা অনেক বেড়ে যায়, প্রায়ই ১০৪ ডিগ্রি ফারেনহাইট পর্যন্ত উঠে যায়, তবে কাঁপুনি বা ঘামদেয় না।
+5.	জ্বরের সঙ্গে সঙ্গে মাথা ব্যথা, চোখ জ্বালা করা, গায়ে লাল লাল দানার মতো রেশ, অবসাদ, অনিদ্রা, বমিবমি ভাব ইত্যাদি দেখা দিতে পারে।
+6.	এ ছাড়া শরীরের বিভিন্ন স্থানে, বিশেষ করে অস্থিসন্ধি তে তীব্র ব্যথা হয়—এমনকি ফুলেও যেতে পারে।
+7.	জ্বর সাধারণত দুই থেকে পাঁচ দিন থাকে এবং এরপর নিজে থেকেই ভালো হয়ে যায়।
+8.	চিকুনগুনিয়া সন্দেহ হলে রক্ত পরীক্ষার মাধ্যমে তা নিশ্চিত হওয়া যায়। এক্ষেত্রে রোগীর রক্তে ভাইরাসের বিরুদ্ধে তৈরি হওয়া অ্যান্টিবডি দেখা হয়। এতে দুই থেকে ১২ দিন লাগতে পারে।
+
+
+Cure:
+1.   চিকুনগুনিয়া জ্বরের কোনো প্রতিষেধক নেই। এর চিকিৎসা মূলত রোগের উপসর্গ গুলোকে নিরাময় করা। রোগীকে সম্পূর্ণ বিশ্রামে রাখতে হবে এবং প্রচুর পানি বা অন্যান্য তরল খেতে দিতে হবে। জ্বরের জন্য প্যারাসিটামল- জাতীয় ওষুধ ই যথেষ্ট এবং এর সঙ্গে সঙ্গে পানি দিয়ে শরীর মুছে দিতে হবে।
+2.তীব্র ব্যথার জন্য এনএসএআইডি-জাতীয় ওষুধ প্রয়োজন হতে পারে, তবে অ্যাসপিরিন না দেওয়াই ভালো।
+3.ক্লোরোকুইন এ রোগের উপশম করে বলে কেউ কেউ দাবি করছেন। আবার যেন মশা না কামড়ায় এ জন্য রোগী কে মশারির ভেতরে রাখাই ভালো।
+    "
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:layout_alignParentStart="true" />
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.about_doctor">
+
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="143dp"
+        android:layout_height="154dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView2"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        app:srcCompat="@drawable/mam"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="-3dp" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="143dp"
+        android:layout_height="154dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView10"
+        app:srcCompat="@drawable/sir"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="-3dp" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="143dp"
+        android:layout_height="154dp"
+        app:srcCompat="@drawable/vai"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="-3dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView9"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="20dp"
+        android:layout_toEndOf="@+id/imageView9"
+        android:layout_toRightOf="@+id/imageView9"
+        android:text="গাইনী:
+ ডা: শারমিন আব্বাসী
+ এমবিবিএস,এফসিপিএস
+ সহকারী অধ্যাপক"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView9"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imageView10"
+        android:layout_toEndOf="@+id/imageView9"
+        android:layout_toRightOf="@+id/imageView9"
+        android:text=" মেডিসিন:
+ ডা:রুবায়েত শেখ গিয়াসউদ্দিন
+ এমবিবিএস,এমআরসিপি
+ সহকারী অধ্যাপক,    আনোয়ার খান"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="23dp"
+        android:layout_toEndOf="@+id/imageView10"
+        android:layout_toRightOf="@+id/imageView10"
+        android:text="মেডিসিনঃ
+ ডা: মঞ্জুর হোসাইন চৌধুরী
+ এমবিবিএস(ঢাকা)
+ প্রতিষ্ঠাতা; গরীবের ডাক্তার"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+
+</RelativeLayout>

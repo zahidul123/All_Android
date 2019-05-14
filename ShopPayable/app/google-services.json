@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "177439915042",
+    "firebase_url": "https://shoppayable.firebaseio.com",
+    "project_id": "shoppayable",
+    "storage_bucket": "shoppayable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177439915042:android:7e1da973c3328888",
+        "android_client_info": {
+          "package_name": "com.example.destroy.shoppayable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177439915042-a9i6v53m6icq3pvg2mcfdi1mei1dcfp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.destroy.shoppayable",
+            "certificate_hash": "e9b6dd79fd50606174a2c38571b033a4458c7d4b"
+          }
+        },
+        {
+          "client_id": "177439915042-02u0drmo5qknd7hjbbnq7llhpcjq3i0i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "177439915042-02u0drmo5qknd7hjbbnq7llhpcjq3i0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRaUdr_cPezrCMV8T4TjN-69KwcHcxlq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177439915042-02u0drmo5qknd7hjbbnq7llhpcjq3i0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

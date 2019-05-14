@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done20">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="
+    বিশ্ব স্বাস্থ্য সংস্থা কর্তৃক নির্ধারিত পানিতে সর্বোচ্চ মাত্রার সহনীয় আর্সেনিকের মাত্রা ০.০৫ পিপিএম। এই মাত্রার চেয়ে বেশি মাত্রার হলে সেই পানিকে আমরা মানব স্বাস্থ্যের জন্য ক্ষতি কর বলব।
+
+Cause:
+আর্সেনিক দূষণে আক্রান্তের লক্ষণ গুলোঃ অতিরিক্ত আর্সেনিক যুক্ত পানি পান করতে থাকলে মানব দেহে নিম্মোক্ত লক্ষণ গুলো দেখা দেয়ঃ
+
+    ১) শরীরে কালো কালো ছোপবা দাগ দেখা দেয়।
+
+    ২) হাত ও পায়ের সংবেদনশীলতা নষ্ট হয়। হাত ও পায়ের তালু শক্ত ও খসখসে হয়। সর্বোপরি ‘ব্লাকফুট’ নামক রোগের সৃষ্টি হয়।
+
+    ৩) পেটের যন্ত্রণা ও মাথার যন্ত্রণা দেখা দেয়।
+
+    ৪) কিডনির কর্মক্ষমতা লোপ পায়।
+
+    ৫) বমি, রক্ত বমি ও জন্ডিস দেখা দেয়।
+
+Cure:
+আর্সেনিক যুক্ত পানি সম্পর্কে যা জানা প্রয়োজনঃ
+
+    ১) আর্সেনিক দূষণের প্রতিক্রিয়া সংক্রামক বা ছোঁয়াছে নয়।
+
+    ২) নদী, পুকুর ও বিলের পানিতে আর্সেনিক থাকে না।
+
+    ৩) আর্সেনিক যুক্ত পানি ফুটিয়ে পান করলে আর্সেনিক দূর হয় না বরং আর্সেনিকের পরিমাণ বেড়ে যায়।
+
+    ৪) আর্সেনিক যুক্ত পানি পান বা রান্নায় ব্যবহার না করলে রোগী এমনিতেই অনেকাংশে ভালো হয়ে যায়।
+" />
+    </LinearLayout>
+</ScrollView>

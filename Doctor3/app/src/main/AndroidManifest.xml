@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sorowartheshoinik.doctor3">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Medical Assistant"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Contract" />
+        <activity android:name=".done" />
+        <activity android:name=".about_us" />
+        <activity android:name=".about_doctor" />
+        <activity android:name=".done2" />
+        <activity android:name=".done3" />
+        <activity android:name=".done4" />
+        <activity android:name=".done5" />
+        <activity android:name=".Po" />
+        <activity android:name=".done6" />
+        <activity android:name=".done1" />
+        <activity android:name=".done7" />
+        <activity android:name=".done8" />
+        <activity android:name=".done9" />
+        <activity android:name=".done10" />
+        <activity android:name=".done11" />
+        <activity android:name=".done12" />
+        <activity android:name=".done13" />
+        <activity android:name=".done14" />
+        <activity android:name=".done15" />
+        <activity android:name=".done16" />
+        <activity android:name=".done17" />
+        <activity android:name=".done18" />
+        <activity android:name=".done19" />
+        <activity android:name=".done21" />
+        <activity android:name=".done20" />
+        <activity android:name=".done22" />
+        <activity android:name=".done23" />
+        <activity android:name=".done24" />
+        <activity android:name=".done25" />
+        <activity android:name=".done26" />
+        <activity android:name=".done27" />
+        <activity android:name=".done28" />
+        <activity android:name=".done29" />
+        <activity android:name=".done30" />
+        <activity android:name=".done31" />
+        <activity android:name=".done32" />
+        <activity android:name=".done33"></activity>
+    </application>
+
+</manifest>

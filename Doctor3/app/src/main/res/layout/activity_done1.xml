@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/imageView1"
+
+            android:text="1.প্রক্রিয়া ৫ থেকে ২০ বছর ধরে চলতে থাকে
+2.প্রতি বছর ১ লাখ মানুষ এ রোগে আক্রান্ত হয়
+3.বড়দের মৃত্যুর চতুর্থ প্রধান কারণ এই রোগ।
+4.রোগেরকারণঃ ৬৫ বছর বয়সেরও পরের শতকরা ৫ শতাংশ এ রোগে আক্রান্ত হন। যদিও ৮৫ বছরেরও পরে শতকরা ৫০ শতাংশরই এ রোগ আছে।
+5.উপসর্গ: স্মরণ শক্তি লোপ পাওয়া.
+রোগীরা যে কোনো কিছু নিয়ে দ্বিধা দ্বন্দ্বে থাকেন
+
+
+Cure:
+1.রোগ নির্নয়ঃ এমন কোনো পরীক্ষা নেই, যা দ্বারা জীবিত থাকা অবস্থায় এই রোগ সুনির্দিষ্ট ভাবে ডায়াগনোসিস করা যায়। একমাত্র মৃত্যুর পর ব্রেইনটিস্যু/কোষ নিয়ে পরীক্ষা করে এ রোগ সঠিক ভাবে ডায়াগনোসিস করা সম্ভব।
+2.চিকিৎসাঃ আলঝেইমারস রোগের সম্পূর্ণ নিরাময় যোগ্য কোনো চিকিৎসা নেই।"
+
+            android:textColor="#000000"
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+
+
+
+
+            />
+    </LinearLayout>
+</ScrollView>
+

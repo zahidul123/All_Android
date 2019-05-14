@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#0099CC"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.Contract">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textSize="50dp"
+        android:id="@+id/btnEmail"
+        android:layout_marginTop="79dp"
+        android:layout_below="@+id/btnSetEmargency"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SMS"
+        android:id="@+id/btnSMS"
+        android:textSize="50dp"
+        android:onClick="BtnSetEmergency_onClick"
+        android:name="android.permission.SEND_SMS"
+        android:layout_marginTop="104dp"
+        android:layout_below="@+id/btnEmail"
+        android:layout_alignRight="@+id/btnEmail"
+        android:layout_alignEnd="@+id/btnEmail"
+        android:layout_alignLeft="@+id/btnEmail"
+        android:layout_alignStart="@+id/btnEmail" />
+
+</RelativeLayout>

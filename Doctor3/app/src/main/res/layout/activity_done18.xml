@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done18">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Cause:
+    1. কুষ্ঠরোগ একটি দীর্ঘ স্থায়ী সংক্রমণ হলেও এটা অতটা সংক্রমক রোগ নয়। কুষ্ঠ রোগের ফলে খুব কমই মৃত্যু হতে দেখা যায়। তবে কুষ্ঠরোগে আক্রান্ত ব্যক্তি ও তার পরিবারকে অনেক মানসিক ও সামাজিক সমস্যার সম্মুখীন হতে হয়।
+    2. কুষ্ঠরোগ কি মাইকো ব্যাকটেরিয়াম লেপ্রি (Mycobacterium leprae ) নামক জীবাণুর সংক্রমণের কারণে কুষ্ঠরোগ হয়। কুষ্ঠরোগ মস্তিষ্ক ও মেরুদন্ডের বাইরের দিকের স্নায়ু (Peripheral Nerves), ত্বক, অন্ডকোষ (testes), চোখ এবং নাকের মিউকাস মেমব্রেনের ক্ষতি করে।
+    3. কুষ্ঠ রোগ কিভাবে ছড়ায় আক্রান্ত ব্যক্তির নাক-মুখ দিয়ে সর্দি (Droplet) ঝরলে এবং সুস্থ ব্যক্তির শ্বাস নেয়াও স্পর্শের মাধ্যমে কুষ্ঠরোগ ছড়াতে পারে জীবাণু দ্বারা সংক্রমিত হলেও অধিকাংশ ব্যক্তির কুষ্ঠ রোগ হয় না।
+
+Cure:
+    যে সব লক্ষণ ও উপসর্গ গুলো দেখা দেয়: টিউবার কিউলয়েড কুষ্ঠ (Tuberculoid leprosy) : ত্বকে লালচে দাগের পাশাপাশি কিছু কিছু জায়গায় মসৃণ সাদাটে দাগ দেখা যায়। আক্রান্ত স্থান অসাড় (Numb) হয়ে যায়।
+  উপরোক্ত লক্ষণ ও উপসর্গ দেখা দেয়ার সাথেসাথে ডাক্তারের সাথে যোগাযোগ করতে হবে। তবে রোগ নিশ্চিত করার জন্য নিচের পরীক্ষা গুলো করানো হয় :
+    1.	আক্রান্ত স্থানের ত্বকের কলা (Skin tissue) পরীক্ষা রক্তের পরীক্ষা কি ধরণের চিকিৎসা আছে রোগের ধরণ, মাত্রা এবং রুগীর বয়সের উপর কুষ্ঠরোগের চিকিৎসা নির্ভর করে।
+    2.	চিকিৎসার মধ্যে রয়েছে: দীর্ঘ সময়ব্যাপী এন্টিবায়োটিক সেবন ড্যাপসোন (Dapsone ) দিয়ে জীবন ব্যাপী চিকিৎসাকিভাবে কুষ্ঠরোগ প্রতিরোধ করা যায় আক্রান্ত ব্যক্তির শরীর থেকে নিঃসৃত তরল (bodily fluid) এবং তাদের ত্বকের যেফুস কুড়ি তার সংস্পর্শে আসা যাবেনা বিসিজিটিকানে বার মাধ্যমে কুষ্ঠরোগ প্রতিরোধ করা যায়। তবে এটা অতটা প্রচলিত নয়।
+" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done33">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Cause:
+    1. লিভারের প্রদাহকে হেপাটাইসিস বলা হয়। স্থান-কাল পাত্র ভেদে বিভিন্ন হেপাটাইটিস হতে পারে। যেমন—ভাইরাস, মদ্য পান বিপাকে অসংগতি ইত্যাদি।
+
+    2. বাংলাদেশে সাধারণত ‘এ, বি, সি ও ই’ ভাইরাস দ্বারা লিভারের হেপাটাইটিস হয়ে থাকে।
+
+    3. এ জীবাণু ছড়ায় রক্ত ও রক্ত জাত পদার্থ হেপাটাইটিস –বি এর বাহক। গর্ভবতী মায়ের শরীরে হেপাটাইটিস-বি থাকলে প্রসব কালে নবজাতকের হেপাটাইটিস-বি হওয়ার আশঙ্কা বেশি।
+
+ Cure :
+হেপাটাইটিস-বি ভাইরাসে আক্রান্ত ব্যক্তিদের ওষুধ গ্রহণের সঙ্গে নিম্ন বর্ণিত উপদেশ গুলো পালন করা অত্যন্ত জরুরি
+
+    ১. খাবার ও পানীয় দ্রব্য গ্রহণে সাবধানতা অবলম্বন করতে হবে|
+
+    ২. পরিবারের অন্যান্য ঘনিষ্ঠ জন যাদের সংস্পর্শে আসার সম্ভাবনা বেশি যেমন-স্বামী-স্ত্রী, ভাই বোন, মা-বাবার এইচ বি এস এজ পরীক্ষা করে রিপোর্ট নেগেটিভ হলে টিকা নেওয়া উচিত এবং পজেটিভ হলে যথাযথ চিকিৎসার জন্য শিগগিরই পরিপাকতন্ত্র ও লিভার বিশেষজ্ঞের পরামর্শ নেওয়া উচিত।
+
+    ৩. চিকিৎসকের পরামর্শ ছাড়া কোনো ওষুধ সেবন করা উচিত নয়।
+
+    ৪. অবশ্যই মদ্যপান ত্যাগ করা উচিত।
+
+    ৫. পরিপাকতন্ত্র ও লিভার বিশেষজ্ঞের পরামর্শ ছাড়া ওষুধ বা ইনজেকশন ব্যবহার বন্ধ করা উচিত নয়।
+" />
+    </LinearLayout>
+</ScrollView>

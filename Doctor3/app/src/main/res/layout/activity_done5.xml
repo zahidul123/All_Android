@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sorowartheshoinik.doctor3.done5">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/imageView1"
+            android:text="
+    1.পৃথিবীতে প্রতিহাজারে এক থেকে আটজন শিশু এসমস্যায় ভুগছে।
+    2.মেয়েশিশুদের তুলনায় ছেলে শিশুদের আক্রান্ত হওয়ার আশঙ্কা প্রায় চারগুণ বেশি। বর্তমান সময়ে সারা পৃথিবীতে এবং আমাদের দেশেও অটিজম অত্যন্ত আলোচিত একটি বিষয়।
+    3.সম্প্রতি বিশ্বস্বাস্থ্য সংস্থা ও জাতীয় মানসিক স্বাস্থ্য ইনস্টিটিউট পরিচালিত এক জরিপে দেখা যায়, কেবল ঢাকা বিভাগের শিশুদের মধ্যে অটিজমের হার প্রায় শূন্যদশমিক ৮৪ শতাংশ।
+    4.২০০৫ সালে যুক্তরাজ্যে পরিচালিত এক জরিপে দেখা যায়, সেদেশে অটিজমের হার শূন্য দশমিক ৯ শতাংশ।
+    5.এটা স্নায়ু গত সমস্যা ও এর চিকিৎসা করবেন স্নায়ু রোগ বিশেষজ্ঞরা
+    7.সাধারণ যেকোনো শিশুর চেয়ে যাদের ভাই বা বোনের অটিজম আছে, তাদের এ রোগ হওয়ার আশঙ্কা প্রায় ৫০ গুণবেশি। ধারণা করা হয়, ক্রোমোসোমনম্বর 7q-এর অস্বাভাবিক তার সঙ্গে অটিজমের সম্পর্ক আছে।
+    8.অটিজম আছে এমন শিশুর মধ্যে ২৫ শতাংশের খিঁচুনি থাকতে
+
+
+    Cure:
+    1.পরিচর্যাও চিকিতসাসেবা- অটিজম রয়েছে এমন শিশুদের মধ্যে ১০ থেকে ২০ শতাংশ চার থেকে ছয় বছর বয়সের মধ্যে মোটামুটি সুস্থহয়ে ওঠে
+    2.আরও ১০ থেকে ২০ শতাংশ শিশু স্বাভাবিক শিশুদের সঙ্গে পড়ালেখা করতে পারেনা।
+    3.বাদবাকি প্রায় ৬০ শতাংশ শিশু যাদের অটিজম আছে, তারা সহায়তা পাওয়ার পরও স্বাধীন বা একক ভাবে জীবন অতিবাহিত করতে পারেনা।
+    "
+            android:textColor="#000000"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+
+</ScrollView>
