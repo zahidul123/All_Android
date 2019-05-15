@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.habib.infobook.MainActivity">
+
+
+    <ImageView
+        android:layout_width="290dp"
+        android:layout_height="104dp"
+        android:background="@drawable/logo"
+        android:id="@+id/logo"
+        android:layout_marginTop="53dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <EditText
+        android:layout_width="330dp"
+        android:layout_height="40dp"
+        android:hint="Name"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/name" />
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="330dp"
+        android:layout_height="40dp"
+        android:inputType="textPassword"
+        android:layout_marginTop="12dp"
+        android:hint="Password"
+        android:layout_below="@+id/name"
+        android:layout_centerHorizontal="true"
+        android:layout_alignStart="@+id/name" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="330dp"
+        android:layout_height="40dp"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="12dp"
+        android:hint="Eamil"
+        android:layout_below="@+id/password"
+        android:layout_centerHorizontal="true"
+        android:layout_alignStart="@+id/password" />
+    <EditText
+        android:id="@+id/id"
+        android:layout_width="330dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="12dp"
+        android:hint="Id"
+        android:layout_below="@+id/email"
+        android:layout_centerHorizontal="true"
+        android:layout_alignStart="@+id/email" />
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="330dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:text="Create an Account"
+        android:background="@drawable/rectangle"
+        android:layout_below="@+id/id"
+        android:layout_centerHorizontal="true"
+        android:layout_alignStart="@+id/id"
+        />
+    <Button
+        android:id="@+id/login"
+        android:layout_width="330dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="12dp"
+        android:text="Log In"
+        android:background="@drawable/rectangledark"
+        android:layout_below="@+id/register"
+        android:layout_centerHorizontal="true"
+        android:layout_alignStart="@+id/register"
+        />
+
+
+
+
+
+</RelativeLayout>
