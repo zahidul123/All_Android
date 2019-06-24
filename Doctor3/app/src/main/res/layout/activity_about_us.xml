@@ -7,118 +7,20 @@
     tools:context="com.example.sorowartheshoinik.doctor3.about_us">
 
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:adjustViewBounds="false"
-        android:contentDescription=""
-        app:srcCompat="@drawable/saiful" />
-
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
-        android:adjustViewBounds="false"
-        android:contentDescription=""
-        app:srcCompat="@drawable/shohag" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
-        android:layout_below="@+id/textView5"
-        android:layout_marginTop="20dp"
-        android:layout_toLeftOf="@+id/imageView1"
-        android:layout_toStartOf="@+id/imageView1"
-        android:adjustViewBounds="false"
-        android:contentDescription=""
-        app:srcCompat="@drawable/priyanka" />
-
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignTop="@+id/imageView"
-        android:adjustViewBounds="false"
-        android:contentDescription=""
-        app:srcCompat="@drawable/atanu" />
-
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:adjustViewBounds="false"
-        android:contentDescription=""
-        app:srcCompat="@drawable/shouvo" />
-
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="300dp"
+       android:id="@+id/sumons"
+       android:src="@drawable/sumon"
+       android:padding="10dp"/>
     <TextView
-        android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="19dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:textColor="#000000"
-        android:layout_below="@+id/imageView4"
-        android:text="Shouvo Jit Das" />
-
-    <TextView
-        android:id="@+id/textView7"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/imageView3"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:text="Atanu Mojumder"
-        android:textColor="#000000"
-        android:textSize="19dp" />
-
-    <TextView
-        android:id="@+id/textVie3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/imageView"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:text="Md Saiful Alam"
-        android:textColor="#000000"
-        android:textSize="19dp" />
-
-    <TextView
-        android:id="@+id/textVi4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/imageView2"
-        android:layout_alignStart="@+id/imageView2"
-        android:layout_below="@+id/imageView2"
-        android:text="Priyanka saha"
-        android:textColor="#000000"
-        android:textSize="19dp" />
-
-    <TextView
-        android:id="@+id/textVie4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_below="@+id/imageView1"
-        android:text="Md. Easin Arafath"
-        android:textColor="#000000"
-        android:textSize="16dp" />
-
-
-
+        android:layout_below="@id/sumons"
+        android:text="s.m.zahidu islam"
+        android:textSize="30dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:padding="10dp"/>
 
 </RelativeLayout>
