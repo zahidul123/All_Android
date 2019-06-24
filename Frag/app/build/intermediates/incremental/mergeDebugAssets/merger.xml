@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Android Project\Frag\app\src\main\assets"/><source path="E:\Android Project\Frag\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Android Project\Frag\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\android projects\somenew\All_Android\Frag\app\src\main\assets"/><source path="D:\android projects\somenew\All_Android\Frag\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\android projects\somenew\All_Android\Frag\app\src\debug\assets"/></dataSet></merger>
