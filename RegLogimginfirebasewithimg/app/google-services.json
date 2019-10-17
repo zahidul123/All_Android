@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636773652382",
+    "firebase_url": "https://loginregistrationwithimage.firebaseio.com",
+    "project_id": "loginregistrationwithimage",
+    "storage_bucket": "loginregistrationwithimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636773652382:android:8b8f77f08d7dd924",
+        "android_client_info": {
+          "package_name": "com.example.reglogimginfirebasewithimg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636773652382-4si76e3m7r6ldhbgsnd6tqb7e0kcug56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reglogimginfirebasewithimg",
+            "certificate_hash": "48080d19b4040402ced49fd6b2c8292f2ea8101b"
+          }
+        },
+        {
+          "client_id": "636773652382-ps5qp973e4097jqv9f5iml9iujbhpf3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeUku2NPkPA4n_57P6f3Lgzb-fenA3WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636773652382-ps5qp973e4097jqv9f5iml9iujbhpf3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

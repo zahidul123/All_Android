@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "465758512063",
+    "firebase_url": "https://imagestoringfirebase-d3110.firebaseio.com",
+    "project_id": "imagestoringfirebase-d3110",
+    "storage_bucket": "imagestoringfirebase-d3110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465758512063:android:4e5bf83ea457e878",
+        "android_client_info": {
+          "package_name": "com.example.imagestoringfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465758512063-k33c9dn589cv290rgo7g38kr0be7t43j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagestoringfirebase",
+            "certificate_hash": "167f187a9b9202c79335aac707ce9e2963805888"
+          }
+        },
+        {
+          "client_id": "465758512063-pnpio547v1qnk4f1e6qu6j5c4o6547og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagestoringfirebase",
+            "certificate_hash": "48080d19b4040402ced49fd6b2c8292f2ea8101b"
+          }
+        },
+        {
+          "client_id": "465758512063-jd9006rcca6le7bio6ek7khh8p0m6uqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0o76TAEAbQ6EfJ46B4jSfVPDNL_4fW1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465758512063-jd9006rcca6le7bio6ek7khh8p0m6uqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

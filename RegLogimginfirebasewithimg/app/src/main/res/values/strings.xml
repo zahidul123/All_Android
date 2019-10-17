@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegLogimginfirebasewithimg</string>
+    <string name="input_error_name">input_error_name</string>
+    <string name="input_error_email">input_error_email</string>
+    <string name="input_error_password">input_error_password</string>
+    <string name="input_error_phone">input_error_phone</string>
+</resources>

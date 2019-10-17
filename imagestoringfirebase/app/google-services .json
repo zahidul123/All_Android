@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580166254381",
+    "firebase_url": "https://basicstoring.firebaseio.com",
+    "project_id": "basicstoring",
+    "storage_bucket": "basicstoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580166254381:android:4e5bf83ea457e878",
+        "android_client_info": {
+          "package_name": "com.example.imagestoringfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580166254381-jl2gv2an5eqq9n0gs774p3dnpn2f3f9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jQmxqRf6wexe7lji758C6VKfkz_2j5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580166254381-jl2gv2an5eqq9n0gs774p3dnpn2f3f9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
